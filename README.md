@@ -10,7 +10,9 @@ This project will change the link from the youtube video into a .wav file which 
 `pip install youtube_dl`
 `import nltk`
 `nltk.download()`
-![](https://github.com/Made-Jaya/Sentiment-Analysis-for-YOUTUBE-Video-Statements/blob/f52014c6dffd28b4da1be61d3cb8725cd1977c00/Untitledsas.png)
+![](https://github.com/Made-Jaya/Sentiment-Analysis-for-YOUTUBE-Video-Statements/blob/72d1b2191672265b320eb63b498a9bd4fb96744a/Captus11223re.PNG)
+
+
 
 
 
